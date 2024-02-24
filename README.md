@@ -1,6 +1,6 @@
 # Arkanoid Game
 
-[image](https://github.com/Flarien/Arkanoid_v1.0/assets/124893838/5eefa698-a596-441a-8072-b7b8480fc23c)
+![Arkanoid Game Screenshot](https://github.com/Flarien/Arkanoid_v1.0/assets/124893838/5eefa698-a596-441a-8072-b7b8480fc23c)
 
 
 ## Descripción
